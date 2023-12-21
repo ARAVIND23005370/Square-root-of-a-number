@@ -30,7 +30,8 @@ print("Square root of the number:",a)
 ```
 
 ## Output:
-![output](![Alt text](image.png))
+![Screenshot 2023-12-21 135318](https://github.com/ARAVIND23005370/Square-root-of-a-number/assets/148514836/f9fbb39d-d492-4db9-a961-96cc09b3fcfe)
+
 
 
 ## Result:
